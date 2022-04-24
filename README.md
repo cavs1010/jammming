@@ -1,5 +1,5 @@
 # 🎧Jammming - Spotify API > React States<br>
-[Objective](#objective_h) | [Languajes](#languajes_h) | [Status](#status_h) | [Extra Mile](#extra_m) | [Acknowledge](#acknowledge_h) 
+[Objective](#objective_h) | [Languages](#languages_h) | [Status](#status_h) | [Extra Mile](#extra_m) | [Acknowledge](#acknowledge_h) 
 
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
@@ -9,7 +9,7 @@
 <p>Use stateful and stateless  React components starting from zero</p>
 
 
-<h2>Languajes and tools<a name="languajes_h"></a></h2>
+<h2>Languages and tools<a name="languajes_h"></a></h2>
 <p></p>
 <ul><li> Frameworks and languages:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
